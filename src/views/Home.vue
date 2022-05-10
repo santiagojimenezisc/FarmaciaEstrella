@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Bienvenido al sistema de  Farmacia Estrellita" />
   </div>
 </template>
